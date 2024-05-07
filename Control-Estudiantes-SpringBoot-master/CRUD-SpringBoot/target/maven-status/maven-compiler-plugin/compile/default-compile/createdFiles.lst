@@ -1,0 +1,7 @@
+com\app\web\repositorio\EstudianteRepositorio.class
+com\app\web\CrudSpringBootApplication.class
+com\app\web\seguridad\SecurityConfig.class
+com\app\web\servicio\EstudianteServicioImpl.class
+com\app\web\controlador\EstudianteControlador.class
+com\app\web\entidad\Estudiante.class
+com\app\web\servicio\EstudianteServicio.class
